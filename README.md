@@ -55,3 +55,7 @@ We've meticulously crafted an installation manual for the module, encompassing a
 >WHMCS minimal version: 8 +
 
 >Emby minimal version: 4.7+
+
+![image](https://github.com/PUQ-sp-z-o-o/WHMCS-Module-Emby-Family/assets/81689153/2c55470c-82d4-4de5-b92e-1ff347049ad0)
+
+![image](https://github.com/PUQ-sp-z-o-o/WHMCS-Module-Emby-Family/assets/81689153/65e8bd0c-bad2-40d9-9068-aeb4ac1096c8)
